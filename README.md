@@ -11,4 +11,4 @@ Luego creamos el container con:
 La ruta de swagger es http://localhost:8080/swagger-ui.html
 
 # Endpoint
-El endpoint para consultar los datos por comuna es : http://localhost:8080/comuna/(nombre)
+El endpoint para consultar los datos por comuna es : http://localhost:8080/comuna/(nombre) ejemplo: http://localhost:8080/comuna/cerrillos
